@@ -37,7 +37,7 @@ Untuk menampilkan ListView pada praktikum ini digunakan itemBuilder. Data diambi
 
 ![Screenshoot](assets/prak1/coba6.png)
 
-
+# Hasil
 
 ![Screenshoot](assets/result/1.png)
 
@@ -49,6 +49,5 @@ Untuk menampilkan ListView pada praktikum ini digunakan itemBuilder. Data diambi
 
 ![Screenshoot](assets/result/5.png)
 
-![Screenshoot](assets/result/6.png)
 
 

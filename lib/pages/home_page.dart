@@ -54,7 +54,7 @@ class HomePage extends StatelessWidget {
               },
             ),
           ),
-          FooterWidget(name: 'Alkadafi', nim: '362333'),
+          FooterWidget(name: 'Alkadafi', nim: '362358302108'),
         ],
       ),
     );

@@ -75,7 +75,7 @@ class ItemPage extends StatelessWidget {
                 ),
               ),
             ),
-            FooterWidget(name: 'Alkadafi', nim: '362333'),
+            FooterWidget(name: 'Alkadafi Firnawan', nim: '362358302108'),
           ],
         ),
       ),

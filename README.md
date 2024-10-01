@@ -41,11 +41,12 @@ Untuk menampilkan ListView pada praktikum ini digunakan itemBuilder. Data diambi
 
 ![Screenshoot](assets/result/1.png)
 
+![Screenshoot](assets/result/4.png)
+
 ![Screenshoot](assets/result/2.png)
 
 ![Screenshoot](assets/result/3.png)
 
-![Screenshoot](assets/result/4.png)
 
 ![Screenshoot](assets/result/5.png)
 
